@@ -1,0 +1,4 @@
++ MIDIClient{
+	*guiClass{^MIDIClientGui}
+}
+
